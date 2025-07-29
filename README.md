@@ -13,7 +13,7 @@ A Clicker Gaem: Sega Saturn Edition (or A Clicker Gaem) is a game made for the *
 *Before Compiling, you need to do a small patch to SRL!*
 
 1. Go to 'SRLDIR/modules/SaturnMathPP/impl/fxp.hpp' (SRLDIR being the Saturn Ring Library Directory)
-2. Then, Go to line *134* or search for 'consteval Fxp(const T& value) : value(value * 65536.0) {}'
+2. Then, Go to line *134* or search for *'consteval Fxp(const T& value) : value(value * 65536.0) {}'*
 3. Replace *consteval* to *constexpr*, this is so I can change Fxp values (like position) during run time!
 
 ### Compiling
