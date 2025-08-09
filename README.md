@@ -1,4 +1,6 @@
-<p align=center> ![ACG Logo](https://static.wikitide.net/binrayarchiveswiki/f/fe/ACGlogo.png) </p>
+    <div style="text-align: center;"> 
+    ![ACG Logo](https://static.wikitide.net/binrayarchiveswiki/f/fe/ACGlogo.png)
+    </div>
 
 # <p align=center>ACGSSE
 Welcome to the: ***A Clicker Gaem: Sega Saturn Edition*** Repository!
