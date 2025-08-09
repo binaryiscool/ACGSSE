@@ -1,0 +1,5 @@
+FILE "A_Clicker_Gaem_Sega_Saturn_Edition.bin" BINARY
+  TRACK 01 MODE1/2048
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    INDEX 01 00:04:27
