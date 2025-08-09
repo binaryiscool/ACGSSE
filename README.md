@@ -1,6 +1,6 @@
 ![ACG Logo](https://static.wikitide.net/binrayarchiveswiki/f/fe/ACGlogo.png)
 
-# ACGSSE
+# <p align=center>ACGSSE</p>
 Welcome to the: ***A Clicker Gaem: Sega Saturn Edition*** Repository!
 
 A Clicker Gaem: Sega Saturn Edition (or A Clicker Gaem) is a game made for the ***Sega Saturn*** using the [***Saturn Ring Library (SRL)***](https://github.com/ReyeMe/SaturnRingLib), and is meant to be the continuation of the *A Clicker Gaem Scratch Series that lasted from 2021-2023*.
