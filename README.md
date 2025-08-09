@@ -1,3 +1,5 @@
+![ACG Logo](https://static.wikitide.net/binrayarchiveswiki/f/fe/ACGlogo.png)
+
 # ACGSSE
 Welcome to the: ***A Clicker Gaem: Sega Saturn Edition*** Repository!
 
